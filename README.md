@@ -19,7 +19,7 @@ Checkout my portfolio here: https://portfolio-prajwal-p.vercel.app/
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Prajwal264)
 
 ### Repository View Counter - HITS
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Prajwal264/portfolio)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPrajwal264%2Fportfolio&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **Prajwal264/Prajwal264** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

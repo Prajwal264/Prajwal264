@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Prajwal, a self taught Front end developer and a Full stack developer. I've worked on many projects on web.
+I'm Prajwal, a self taught Full stack developer. I've worked on many projects on web.
 
 Software engineering has been my muse since childhood. Even though I've taken the path less trodden, it hasn't stopped me from moving ahead, towards the fulfillment of my goals.
 

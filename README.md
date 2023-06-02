@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Prajwal, a Full stack developer, with 3+ years of experience in building web applications with Javascript / Typescript. I'm currently open to work, looking for product based companies with exciting projects to contribute on.
+I'm Prajwal, a Full stack developer (a front end developer who is not scared of aggregations, transactions and a backend developer who is not afraid of css), with 3+ years of experience in building web applications with Javascript / Typescript. I'm currently open to work, looking for product based companies with exciting projects to contribute on.
 
 - 🔭 I’m currently working on **Jikan** -> https://github.com/Prajwal264/jikan
 - 🌱 I’m currently learning **Rust** -> https://www.rust-lang.org/
